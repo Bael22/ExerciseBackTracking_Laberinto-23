@@ -1,0 +1,15 @@
+E:\Desktop\T2_backtracking01\T2_backtracking\bin\Debug\net6.0\T2_backtracking.exe
+E:\Desktop\T2_backtracking01\T2_backtracking\bin\Debug\net6.0\T2_backtracking.deps.json
+E:\Desktop\T2_backtracking01\T2_backtracking\bin\Debug\net6.0\T2_backtracking.runtimeconfig.json
+E:\Desktop\T2_backtracking01\T2_backtracking\bin\Debug\net6.0\T2_backtracking.dll
+E:\Desktop\T2_backtracking01\T2_backtracking\bin\Debug\net6.0\T2_backtracking.pdb
+E:\Desktop\T2_backtracking01\T2_backtracking\obj\Debug\net6.0\T2_backtracking.csproj.AssemblyReference.cache
+E:\Desktop\T2_backtracking01\T2_backtracking\obj\Debug\net6.0\T2_backtracking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\T2_backtracking01\T2_backtracking\obj\Debug\net6.0\T2_backtracking.AssemblyInfoInputs.cache
+E:\Desktop\T2_backtracking01\T2_backtracking\obj\Debug\net6.0\T2_backtracking.AssemblyInfo.cs
+E:\Desktop\T2_backtracking01\T2_backtracking\obj\Debug\net6.0\T2_backtracking.csproj.CoreCompileInputs.cache
+E:\Desktop\T2_backtracking01\T2_backtracking\obj\Debug\net6.0\T2_backtracking.dll
+E:\Desktop\T2_backtracking01\T2_backtracking\obj\Debug\net6.0\refint\T2_backtracking.dll
+E:\Desktop\T2_backtracking01\T2_backtracking\obj\Debug\net6.0\T2_backtracking.pdb
+E:\Desktop\T2_backtracking01\T2_backtracking\obj\Debug\net6.0\T2_backtracking.genruntimeconfig.cache
+E:\Desktop\T2_backtracking01\T2_backtracking\obj\Debug\net6.0\ref\T2_backtracking.dll
